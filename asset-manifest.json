@@ -1,34 +1,31 @@
 {
   "files": {
-    "main.css": "/quantumcatvr.github.io/static/css/main.226ff501.chunk.css",
-    "main.js": "/quantumcatvr.github.io/static/js/main.47535a8e.chunk.js",
-    "main.js.map": "/quantumcatvr.github.io/static/js/main.47535a8e.chunk.js.map",
-    "runtime-main.js": "/quantumcatvr.github.io/static/js/runtime-main.88bb729f.js",
-    "runtime-main.js.map": "/quantumcatvr.github.io/static/js/runtime-main.88bb729f.js.map",
-    "static/js/2.ed5d7367.chunk.js": "/quantumcatvr.github.io/static/js/2.ed5d7367.chunk.js",
-    "static/js/2.ed5d7367.chunk.js.map": "/quantumcatvr.github.io/static/js/2.ed5d7367.chunk.js.map",
+    "main.css": "/quantumcatvr.github.io/static/css/main.b016c38d.chunk.css",
+    "main.js": "/quantumcatvr.github.io/static/js/main.a927d41c.chunk.js",
+    "main.js.map": "/quantumcatvr.github.io/static/js/main.a927d41c.chunk.js.map",
+    "runtime-main.js": "/quantumcatvr.github.io/static/js/runtime-main.87717969.js",
+    "runtime-main.js.map": "/quantumcatvr.github.io/static/js/runtime-main.87717969.js.map",
+    "static/js/2.0bbc7939.chunk.js": "/quantumcatvr.github.io/static/js/2.0bbc7939.chunk.js",
+    "static/js/2.0bbc7939.chunk.js.map": "/quantumcatvr.github.io/static/js/2.0bbc7939.chunk.js.map",
     "index.html": "/quantumcatvr.github.io/index.html",
-    "precache-manifest.a7213f6273308698692295af3743403b.js": "/quantumcatvr.github.io/precache-manifest.a7213f6273308698692295af3743403b.js",
+    "precache-manifest.f164240871d17c6424adc0d0dab30774.js": "/quantumcatvr.github.io/precache-manifest.f164240871d17c6424adc0d0dab30774.js",
     "service-worker.js": "/quantumcatvr.github.io/service-worker.js",
-    "static/css/main.226ff501.chunk.css.map": "/quantumcatvr.github.io/static/css/main.226ff501.chunk.css.map",
-    "static/js/2.ed5d7367.chunk.js.LICENSE.txt": "/quantumcatvr.github.io/static/js/2.ed5d7367.chunk.js.LICENSE.txt",
+    "static/css/main.b016c38d.chunk.css.map": "/quantumcatvr.github.io/static/css/main.b016c38d.chunk.css.map",
+    "static/js/2.0bbc7939.chunk.js.LICENSE.txt": "/quantumcatvr.github.io/static/js/2.0bbc7939.chunk.js.LICENSE.txt",
+    "static/media/cat-logo.svg": "/quantumcatvr.github.io/static/media/cat-logo.1f5cf95f.svg",
+    "static/media/character.jpg": "/quantumcatvr.github.io/static/media/character.8a7d08c1.jpg",
     "static/media/style.scss": "/quantumcatvr.github.io/static/media/illustration-section-02.63d0555d.svg",
     "static/media/feature-tile-icon-01.svg": "/quantumcatvr.github.io/static/media/feature-tile-icon-01.0f9928d7.svg",
     "static/media/feature-tile-icon-02.svg": "/quantumcatvr.github.io/static/media/feature-tile-icon-02.bd39f304.svg",
     "static/media/feature-tile-icon-03.svg": "/quantumcatvr.github.io/static/media/feature-tile-icon-03.66f37ba5.svg",
-    "static/media/feature-tile-icon-04.svg": "/quantumcatvr.github.io/static/media/feature-tile-icon-04.836acd10.svg",
-    "static/media/feature-tile-icon-05.svg": "/quantumcatvr.github.io/static/media/feature-tile-icon-05.fa9ba00b.svg",
-    "static/media/feature-tile-icon-06.svg": "/quantumcatvr.github.io/static/media/feature-tile-icon-06.6a177696.svg",
-    "static/media/features-split-image-01.png": "/quantumcatvr.github.io/static/media/features-split-image-01.d9cb99ce.png",
-    "static/media/features-split-image-02.png": "/quantumcatvr.github.io/static/media/features-split-image-02.3c569239.png",
-    "static/media/features-split-image-03.png": "/quantumcatvr.github.io/static/media/features-split-image-03.87e4d053.png",
-    "static/media/logo.svg": "/quantumcatvr.github.io/static/media/logo.2810a88b.svg",
-    "static/media/video-placeholder.jpg": "/quantumcatvr.github.io/static/media/video-placeholder.a622fc5d.jpg"
+    "static/media/quantum-cat-visual.jpg": "/quantumcatvr.github.io/static/media/quantum-cat-visual.85b4e9cf.jpg",
+    "static/media/quantum-world.jpg": "/quantumcatvr.github.io/static/media/quantum-world.0ccc50aa.jpg",
+    "static/media/story.jpg": "/quantumcatvr.github.io/static/media/story.287c202b.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.88bb729f.js",
-    "static/js/2.ed5d7367.chunk.js",
-    "static/css/main.226ff501.chunk.css",
-    "static/js/main.47535a8e.chunk.js"
+    "static/js/runtime-main.87717969.js",
+    "static/js/2.0bbc7939.chunk.js",
+    "static/css/main.b016c38d.chunk.css",
+    "static/js/main.a927d41c.chunk.js"
   ]
 }
