@@ -50,8 +50,8 @@ const FeaturesSplit = ({
   );
 
   const sectionHeader = {
-    title: 'Workflow that just works',
-    paragraph: 'Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum — semper quis lectus nulla at volutpat diam ut venenatis.'
+    title: 'Story and Art',
+    paragraph: 'A Cat's Quantum Adventure interpret multiverse and destiny through branching narrative, and intuitive interaction. In this fictional journey, you will see the world from a cat's perspective, you will experience the love, the lost, and the greatest regret, and eventually, seize the chance to bring the loved one back to the family. '
   };
 
   return (
@@ -70,11 +70,10 @@ const FeaturesSplit = ({
                   Lightning fast workflow
                   </div>
                 <h3 className="mt-0 mb-12">
-                  Data-driven insights
+                  Branching Narrative
                   </h3>
                 <p className="m-0">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua — Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-                  </p>
+                  You are used by a quantum physic scientist to activate a time machine In order to save his daughter. Whatever you do during time traveling between the past and reality may lead to death or survival. 
               </div>
               <div className={
                 classNames(
@@ -83,7 +82,7 @@ const FeaturesSplit = ({
                 )}
                 data-reveal-container=".split-item">
                 <Image
-                  src={require('./../../assets/images/features-split-image-01.png')}
+                  src={require('./../../assets/images/story.jpg')}
                   alt="Features split 01"
                   width={528}
                   height={396} />
@@ -96,10 +95,10 @@ const FeaturesSplit = ({
                   Lightning fast workflow
                   </div>
                 <h3 className="mt-0 mb-12">
-                  Data-driven insights
+                  Character Design
                   </h3>
                 <p className="m-0">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua — Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                  Pudding's family, they seem to be nice and welcoming, but every family has a skeleton in the closet, what's the hidden conflict?
                   </p>
               </div>
               <div className={
@@ -109,7 +108,7 @@ const FeaturesSplit = ({
                 )}
                 data-reveal-container=".split-item">
                 <Image
-                  src={require('./../../assets/images/features-split-image-02.png')}
+                  src={require('./../../assets/images/character.jpg')}
                   alt="Features split 02"
                   width={528}
                   height={396} />
@@ -122,10 +121,10 @@ const FeaturesSplit = ({
                   Lightning fast workflow
                   </div>
                 <h3 className="mt-0 mb-12">
-                  Data-driven insights
+                  Dive into the Quantum World
                   </h3>
                 <p className="m-0">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua — Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                  Let's jump into the Quantum World! You will have the freedom to walk and look around the amazing environment, from a cat's perspective. But be careful, curiosity might kill the cat!
                   </p>
               </div>
               <div className={
@@ -135,7 +134,7 @@ const FeaturesSplit = ({
                 )}
                 data-reveal-container=".split-item">
                 <Image
-                  src={require('./../../assets/images/features-split-image-03.png')}
+                  src={require('./../../assets/images/quantum-world.jpg')}
                   alt="Features split 03"
                   width={528}
                   height={396} />
