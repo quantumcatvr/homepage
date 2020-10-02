@@ -23,3 +23,5 @@ If you would like to know when we release new resources, you can follow us on [T
 - Copyright 2020 [QuantumcatVr](https://quantumcatvr.github.io/).
 - Released under the [GPL](https://www.gnu.org/licenses/gpl-3.0.html).
 - Homepage forked from [Cruip/open-react-template](https://github.com/cruip/open-react-template).
+
+

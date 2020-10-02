@@ -50,8 +50,8 @@ const FeaturesSplit = ({
   );
 
   const sectionHeader = {
-    title: 'Story and Art',
-    paragraph: 'A Cat's Quantum Adventure interpret multiverse and destiny through branching narrative, and intuitive interaction. In this fictional journey, you will see the world from a cat's perspective, you will experience the love, the lost, and the greatest regret, and eventually, seize the chance to bring the loved one back to the family. '
+    title: 'VR Story and Art',
+    paragraph: "A Cats Quantum Adventure interpret multiverse and destiny through branching narrative, and intuitive interaction. In this fictional journey, you will see the world from a cat's perspective, you will experience the love, the lost, and the greatest regret, and eventually, seize the chance to bring the loved one back to the family. "
   };
 
   return (
@@ -67,13 +67,13 @@ const FeaturesSplit = ({
             <div className="split-item">
               <div className="split-item-content center-content-mobile reveal-from-left" data-reveal-container=".split-item">
                 <div className="text-xxs text-color-primary fw-600 tt-u mb-8">
-                  Lightning fast workflow
+                VR Story and Art
                   </div>
                 <h3 className="mt-0 mb-12">
                   Branching Narrative
                   </h3>
                 <p className="m-0">
-                  You are used by a quantum physic scientist to activate a time machine In order to save his daughter. Whatever you do during time traveling between the past and reality may lead to death or survival. 
+                  You are used by a quantum physic scientist to activate a time machine In order to save his daughter. Whatever you do during time traveling between the past and reality may lead to death or survival. </p>
               </div>
               <div className={
                 classNames(
@@ -92,7 +92,7 @@ const FeaturesSplit = ({
             <div className="split-item">
               <div className="split-item-content center-content-mobile reveal-from-right" data-reveal-container=".split-item">
                 <div className="text-xxs text-color-primary fw-600 tt-u mb-8">
-                  Lightning fast workflow
+                  VR Story and Art
                   </div>
                 <h3 className="mt-0 mb-12">
                   Character Design
@@ -118,7 +118,7 @@ const FeaturesSplit = ({
             <div className="split-item">
               <div className="split-item-content center-content-mobile reveal-from-left" data-reveal-container=".split-item">
                 <div className="text-xxs text-color-primary fw-600 tt-u mb-8">
-                  Lightning fast workflow
+                VR Story and Art
                   </div>
                 <h3 className="mt-0 mb-12">
                   Dive into the Quantum World
