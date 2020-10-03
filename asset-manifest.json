@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/quantumcatvr.github.io/static/css/main.d583a459.chunk.css",
-    "main.js": "/quantumcatvr.github.io/static/js/main.6ccaf885.chunk.js",
-    "main.js.map": "/quantumcatvr.github.io/static/js/main.6ccaf885.chunk.js.map",
+    "main.js": "/quantumcatvr.github.io/static/js/main.82df6e3b.chunk.js",
+    "main.js.map": "/quantumcatvr.github.io/static/js/main.82df6e3b.chunk.js.map",
     "runtime-main.js": "/quantumcatvr.github.io/static/js/runtime-main.87717969.js",
     "runtime-main.js.map": "/quantumcatvr.github.io/static/js/runtime-main.87717969.js.map",
-    "static/js/2.0bbc7939.chunk.js": "/quantumcatvr.github.io/static/js/2.0bbc7939.chunk.js",
-    "static/js/2.0bbc7939.chunk.js.map": "/quantumcatvr.github.io/static/js/2.0bbc7939.chunk.js.map",
+    "static/js/2.80ad884d.chunk.js": "/quantumcatvr.github.io/static/js/2.80ad884d.chunk.js",
+    "static/js/2.80ad884d.chunk.js.map": "/quantumcatvr.github.io/static/js/2.80ad884d.chunk.js.map",
     "index.html": "/quantumcatvr.github.io/index.html",
-    "precache-manifest.b0f178b72aa2cad2269511e5c7e3eae4.js": "/quantumcatvr.github.io/precache-manifest.b0f178b72aa2cad2269511e5c7e3eae4.js",
+    "precache-manifest.ccea539ad5111328754a7fb56b27a542.js": "/quantumcatvr.github.io/precache-manifest.ccea539ad5111328754a7fb56b27a542.js",
     "service-worker.js": "/quantumcatvr.github.io/service-worker.js",
     "static/css/main.d583a459.chunk.css.map": "/quantumcatvr.github.io/static/css/main.d583a459.chunk.css.map",
-    "static/js/2.0bbc7939.chunk.js.LICENSE.txt": "/quantumcatvr.github.io/static/js/2.0bbc7939.chunk.js.LICENSE.txt",
+    "static/js/2.80ad884d.chunk.js.LICENSE.txt": "/quantumcatvr.github.io/static/js/2.80ad884d.chunk.js.LICENSE.txt",
     "static/media/cat-logo.svg": "/quantumcatvr.github.io/static/media/cat-logo.1f5cf95f.svg",
     "static/media/character.jpg": "/quantumcatvr.github.io/static/media/character.8a7d08c1.jpg",
     "static/media/style.scss": "/quantumcatvr.github.io/static/media/illustration-section-02.63d0555d.svg",
@@ -23,8 +23,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.87717969.js",
-    "static/js/2.0bbc7939.chunk.js",
+    "static/js/2.80ad884d.chunk.js",
     "static/css/main.d583a459.chunk.css",
-    "static/js/main.6ccaf885.chunk.js"
+    "static/js/main.82df6e3b.chunk.js"
   ]
 }
