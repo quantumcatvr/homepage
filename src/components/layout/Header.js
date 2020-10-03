@@ -1,7 +1,7 @@
 import React, { useState, useRef, useEffect } from 'react';
 import PropTypes from 'prop-types';
 import classNames from 'classnames';
-import { Link } from 'react-router-dom';
+import {HashLink as Link } from 'react-router-hash-link';
 import Logo from './partials/Logo';
 
 const propTypes = {
@@ -112,7 +112,7 @@ const Header = ({
                       navPosition && `header-nav-${navPosition}`
                     )}>
                     <li>
-                      <Link to="#0" onClick={closeMenu}>Quantumcat Studio</Link>
+                      <Link to="#home" onClick={closeMenu}>Quantumcat VR</Link>
                     </li>
                   </ul>
                   {!hideSignin &&
@@ -120,7 +120,7 @@ const Header = ({
                       className="list-reset header-nav-right"
                     >
                       <li>
-                        <Link to="#0" className="button button-primary button-wide-mobile button-sm" onClick={closeMenu}>Subscribe</Link>
+                        <Link to="#subscribe" className="button button-primary button-wide-mobile button-sm">Subscribe</Link>
                       </li>
                     </ul>}
                 </div>

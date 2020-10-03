@@ -1,6 +1,6 @@
 import React from 'react';
 import classNames from 'classnames';
-import { Link } from 'react-router-dom';
+import {HashLink as Link } from 'react-router-hash-link';
 
 const FooterNav = ({
   className,
@@ -22,7 +22,7 @@ const FooterNav = ({
           <Link to="#team">Team</Link>
         </li>
         <li>
-          <Link to="#vrstory">VR Storyand Art</Link>
+          <Link to="#vrstory">VR Story and Art</Link>
         </li>
         <li>
           <a href="mailto:quantumcatvr@gmail.com">Contact Us</a>
