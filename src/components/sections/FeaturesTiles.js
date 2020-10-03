@@ -45,7 +45,7 @@ const FeaturesTiles = ({
 
   const sectionHeader = {
     title: 'Team',
-    paragraph: 'Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum — semper quis lectus nulla at volutpat diam ut venenatis.'
+    paragraph: 'Originated from Taiwan, we are three creators from different industries who are enthusiastic for creating new VR experiences to our audiences.'
   };
 
   return (
@@ -53,7 +53,7 @@ const FeaturesTiles = ({
       {...props}
       className={outerClasses}
     >
-      <div className="container">
+      <div id="team" className="container">
         <div className={innerClasses}>
           <SectionHeader data={sectionHeader} className="center-content" />
           <div className={tilesClasses}>
@@ -63,8 +63,8 @@ const FeaturesTiles = ({
                 <div className="features-tiles-item-header">
                   <div className="features-tiles-item-image mb-16">
                     <Image
-                      src={require('./../../assets/images/feature-tile-icon-01.svg')}
-                      alt="Features tile icon 01"
+                      src={require('./../../assets/images/nien_icon.jpg')}
+                      alt="Billy Nien"
                       width={64}
                       height={64} />
                   </div>
@@ -74,7 +74,8 @@ const FeaturesTiles = ({
                     Billy Nien
                     </h4>
                   <p className="m-0 text-sm">
-                    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.
+                   Film director, producer, and screenwriter.<br/>
+                    <a href="https://www.cakeresume.com/s--p3f7T1KQA3io3w0k3sbZjg--/nien-han-wen-film">[Resume]</a>
                     </p>
                 </div>
               </div>
@@ -85,8 +86,8 @@ const FeaturesTiles = ({
                 <div className="features-tiles-item-header">
                   <div className="features-tiles-item-image mb-16">
                     <Image
-                      src={require('./../../assets/images/feature-tile-icon-02.svg')}
-                      alt="Features tile icon 02"
+                      src={require('./../../assets/images/kiki_icon.jpg')}
+                      alt="Kiki Wu"
                       width={64}
                       height={64} />
                   </div>
@@ -96,7 +97,8 @@ const FeaturesTiles = ({
                     Kiki Wu
                     </h4>
                   <p className="m-0 text-sm">
-                   Digital Media Artist. 
+                   Digital Media Artist. <br/>
+                    <a href="https://uglykiki.com/">[Portfolio]</a>
                     </p>
                 </div>
               </div>
@@ -107,8 +109,8 @@ const FeaturesTiles = ({
                 <div className="features-tiles-item-header">
                   <div className="features-tiles-item-image mb-16">
                     <Image
-                      src={require('./../../assets/images/feature-tile-icon-03.svg')}
-                      alt="Features tile icon 03"
+                      src={require('./../../assets/images/tzuhan_icon.jpg')}
+                      alt="Tzuhan Hsu"
                       width={64}
                       height={64} />
                   </div>
@@ -118,7 +120,8 @@ const FeaturesTiles = ({
                     Tzuhan Hsu
                     </h4>
                   <p className="m-0 text-sm">
-                    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.
+                   Game/Software Developer, 2D/3D artist.<br/>
+                    <a href="https://tzuhan.github.io/">[Protfolio]</a>
                     </p>
                 </div>
               </div>

@@ -19,13 +19,13 @@ const FooterNav = ({
     >
       <ul className="list-reset">
         <li>
-          <Link to="#0">Team</Link>
+          <Link to="#team">Team</Link>
         </li>
         <li>
-          <Link to="#0">VR Storyand Art</Link>
+          <Link to="#vrstory">VR Storyand Art</Link>
         </li>
         <li>
-          <Link to="#0">Contact Us</Link>
+          <a href="mailto:quantumcatvr@gmail.com">Contact Us</a>
         </li>
       </ul>
     </nav>

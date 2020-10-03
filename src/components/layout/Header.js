@@ -112,7 +112,7 @@ const Header = ({
                       navPosition && `header-nav-${navPosition}`
                     )}>
                     <li>
-                      <Link to="#0" onClick={closeMenu}>VR Story and Art</Link>
+                      <Link to="#0" onClick={closeMenu}>Quantumcat Studio</Link>
                     </li>
                   </ul>
                   {!hideSignin &&
