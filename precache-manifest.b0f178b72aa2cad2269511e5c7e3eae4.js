@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "187d7d83bebfee263bbedde6db83d0d0",
+    "revision": "b90869b460c644708eacf60d83de9a68",
     "url": "/quantumcatvr.github.io/index.html"
   },
   {
-    "revision": "1993dd36e13986adaf34",
-    "url": "/quantumcatvr.github.io/static/css/main.b016c38d.chunk.css"
+    "revision": "8a9360e87502117671b9",
+    "url": "/quantumcatvr.github.io/static/css/main.d583a459.chunk.css"
   },
   {
     "revision": "676c7b4a499a8695d8d6",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/quantumcatvr.github.io/static/js/2.0bbc7939.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1993dd36e13986adaf34",
-    "url": "/quantumcatvr.github.io/static/js/main.a927d41c.chunk.js"
+    "revision": "8a9360e87502117671b9",
+    "url": "/quantumcatvr.github.io/static/js/main.6ccaf885.chunk.js"
   },
   {
     "revision": "cafea999379454a57f83",
@@ -36,24 +36,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/quantumcatvr.github.io/static/media/cta-illustration.3ce357e7.svg"
   },
   {
-    "revision": "0f9928d77bc67692e90527ec092fcbd0",
-    "url": "/quantumcatvr.github.io/static/media/feature-tile-icon-01.0f9928d7.svg"
-  },
-  {
-    "revision": "bd39f30434175e7c8b1d1c74fa6569fd",
-    "url": "/quantumcatvr.github.io/static/media/feature-tile-icon-02.bd39f304.svg"
-  },
-  {
-    "revision": "66f37ba5c7e4b6648f04883fa637e634",
-    "url": "/quantumcatvr.github.io/static/media/feature-tile-icon-03.66f37ba5.svg"
-  },
-  {
     "revision": "ea6949039d6554ebf2cf109f333f5811",
     "url": "/quantumcatvr.github.io/static/media/illustration-section-01.ea694903.svg"
   },
   {
     "revision": "63d0555d90c053eea1a1a7469d004661",
     "url": "/quantumcatvr.github.io/static/media/illustration-section-02.63d0555d.svg"
+  },
+  {
+    "revision": "7978d62d1622e3c2c7a39039a5628c9f",
+    "url": "/quantumcatvr.github.io/static/media/kiki_icon.7978d62d.jpg"
+  },
+  {
+    "revision": "6978fe12ab00b6e378dce8c5e4ec8fbf",
+    "url": "/quantumcatvr.github.io/static/media/nien_icon.6978fe12.jpg"
   },
   {
     "revision": "85b4e9cf7174c48064b616b79967eb6c",
