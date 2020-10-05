@@ -65,7 +65,7 @@ const Hero = ({
             </h1>
             <div className="container-xs">
               <p className="m-0 mb-32 reveal-from-bottom" data-reveal-delay="400">
-              Have you ever traveled through time? What can change your destiny? What life events determine your future? In this VR narrative experience, you will play as a cat "Pudding", and time-travel between quantum worlds and memories to bring the loved one back to the family.
+              Have you ever traveled through time? What can change your destiny? What life events determine your future? <br></br>In this VR narrative experience, you will play as a cat "Pudding", and time-travel between quantum worlds and memories to bring the loved one back to the family.
                 </p>
               {/* <div className="reveal-from-bottom" data-reveal-delay="600">
                 <ButtonGroup>

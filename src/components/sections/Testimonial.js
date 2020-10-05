@@ -62,54 +62,38 @@ const Testimonial = ({
               <div className="tiles-item-inner">
                 <div className="testimonial-item-content">
                   <p className="text-sm mb-0">
-                    — Participated in the <b>Kaohsiung VR Film Lab 2020 creators workshop</b> and made it to the the final run. <br></br>
-                    The final public presentation will be held on 10/18. Stay tuned to get more updates!<br></br>
+                    — Participated in the <b>2020 Kaohsiung VR Film Lab Talent workshop</b> and made it to the the final run. <br></br>
+                    The final public presentation will be held on 10/18. Followthe VR production Market presentation schedule <a target="_blank"  href="https://vrfilmlab.kktix.cc/events/xr-kff">here.</a><br></br>
                   </p>
                 </div>
                 <div className="testimonial-item-footer text-xs mt-32 mb-0 has-top-divider">
-                  <span className="testimonial-item-name text-color-high"><a href="https://www.kff.tw/EN/about/Vr">VR Film Lab</a></span>
+                  <span className="testimonial-item-name text-color-high"><a target="_blank"  href="https://www.kff.tw/EN/about/Vr">Kaohsiung VR Film Lab</a></span>
                   <span className="text-color-low"> / </span>
                   <span className="testimonial-item-link">
-                    <a href="https://vrfilmlab.tw/en/news/2020-kaohsiung-vr-film-lab-workshop2-list/">2020 VR workshop</a>
-                  </span>
-                </div>
-              </div>
-            </div>
-      {/*
-            <div className="tiles-item reveal-from-bottom">
-              <div className="tiles-item-inner">
-                <div className="testimonial-item-content">
-                  <p className="text-sm mb-0">
-                    — Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum cillum dolore eu fugiat.
-                      </p>
-                </div>
-                <div className="testimonial-item-footer text-xs mt-32 mb-0 has-top-divider">
-                  <span className="testimonial-item-name text-color-high">Diana Rynzhuk</span>
-                  <span className="text-color-low"> / </span>
-                  <span className="testimonial-item-link">
-                    <a href="#0">AppName</a>
+                    <a target="_blank"  href="https://vrfilmlab.tw/en/news/2020-kaohsiung-vr-film-lab-workshop2-list/">2020 VR Talent workshop</a>
                   </span>
                 </div>
               </div>
             </div>
 
-            <div className="tiles-item reveal-from-left" data-reveal-delay="200">
+            <div className="tiles-item reveal-from-right" data-reveal-delay="200">
               <div className="tiles-item-inner">
                 <div className="testimonial-item-content">
                   <p className="text-sm mb-0">
-                    — Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum cillum dolore eu fugiat.
-                      </p>
+                    — Selected in <b>2020 Oculus Launch Pad Program</b> and participated in virtual Bootcamp and Facebook Connect in September.<br></br>We will submit our 6 minutes demo to Oculus in the late January, 2021.
+                    <br></br>
+                  </p>
                 </div>
                 <div className="testimonial-item-footer text-xs mt-32 mb-0 has-top-divider">
-                  <span className="testimonial-item-name text-color-high">Ben Stafford</span>
+                  <span className="testimonial-item-name text-color-high">Oculus</span>
                   <span className="text-color-low"> / </span>
                   <span className="testimonial-item-link">
-                    <a href="#0">AppName</a>
+                    <a target="_blank"  href="https://developer.oculus.com/blog/oculus-launch-pad-2020-applications-now-open/?locale=en_US">2020 Launch Pad Program</a>
                   </span>
                 </div>
               </div>
             </div>
-     */} 
+     
 
           </div>
         </div>

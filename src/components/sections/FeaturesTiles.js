@@ -62,11 +62,12 @@ const FeaturesTiles = ({
               <div className="tiles-item-inner">
                 <div className="features-tiles-item-header">
                   <div className="features-tiles-item-image mb-16">
-                    <Image
+                    <Image 
                       src={require('./../../assets/images/nien_icon.jpg')}
                       alt="Billy Nien"
-                      width={64}
-                      height={64} />
+                      width={128}
+                      height={128} 
+                      />
                   </div>
                 </div>
                 <div className="features-tiles-item-content">
@@ -75,7 +76,7 @@ const FeaturesTiles = ({
                     </h4>
                   <p className="m-0 text-sm">
                    Film director, producer, and screenwriter.<br/>
-                    <a href="https://www.cakeresume.com/s--p3f7T1KQA3io3w0k3sbZjg--/nien-han-wen-film">[Resume]</a>
+                    <a className="portfolio-link" target="_blank"  href="https://www.cakeresume.com/s--p3f7T1KQA3io3w0k3sbZjg--/nien-han-wen-film">[ Resume ]</a>
                     </p>
                 </div>
               </div>
@@ -88,8 +89,9 @@ const FeaturesTiles = ({
                     <Image
                       src={require('./../../assets/images/kiki_icon.jpg')}
                       alt="Kiki Wu"
-                      width={64}
-                      height={64} />
+                      width={128}
+                      height={128} 
+                      />
                   </div>
                 </div>
                 <div className="features-tiles-item-content">
@@ -97,8 +99,10 @@ const FeaturesTiles = ({
                     Kiki Wu
                     </h4>
                   <p className="m-0 text-sm">
-                   Digital Media Artist. <br/>
-                    <a href="https://uglykiki.com/">[Portfolio]</a>
+                   Digital Media Artist. 
+                    
+                    <br/>
+                    <a className="portfolio-link" target="_blank"  href="https://uglykiki.com/">[ Portfolio ] </a>
                     </p>
                 </div>
               </div>
@@ -111,8 +115,9 @@ const FeaturesTiles = ({
                     <Image
                       src={require('./../../assets/images/tzuhan_icon.jpg')}
                       alt="Tzuhan Hsu"
-                      width={64}
-                      height={64} />
+                      width={128}
+                      height={128} 
+                     />
                   </div>
                 </div>
                 <div className="features-tiles-item-content">
@@ -121,7 +126,7 @@ const FeaturesTiles = ({
                     </h4>
                   <p className="m-0 text-sm">
                    Game/Software Developer, 2D/3D artist.<br/>
-                    <a href="https://tzuhan.github.io/">[Protfolio]</a>
+                    <a className="portfolio-link" target="_blank" href="https://tzuhan.github.io/">[ Protfolio ]</a>
                     </p>
                 </div>
               </div>

@@ -51,7 +51,7 @@ const FeaturesSplit = ({
 
   const sectionHeader = {
     title: 'VR Story and Art',
-    paragraph: "A Cats Quantum Adventure interpret multiverse and destiny through branching narrative, and intuitive interaction. In this fictional journey, you will see the world from a cat's perspective, you will experience the love, the lost, and the greatest regret, and eventually, seize the chance to bring the loved one back to the family. "
+    paragraph: "A Cat's Quantum Adventure interpret multiverse and destiny through branching narrative and intuitive interaction. In this fictional journey, you will see the world from a cat's perspective, you will experience the love, the lost, and the greatest regret. Would you seize the chance to bring the love back to the family? "
   };
 
   return (

@@ -1,5 +1,10 @@
 .features-tiles-item-image {
 	display: inline-flex;
-	border-radius: 50%;
+	border-radius: 100%;
 	background-color: get-color(primary, 3);
+	overflow:hidden;
+}
+.portfolio-link:hover{
+	color: get-color(primary, 3);
+	font-weight: 500;
 }
