@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/quantumcatvr.github.io/precache-manifest.ccea539ad5111328754a7fb56b27a542.js"
+  "/quantumcatvr.github.io/precache-manifest.6cb867d6f836e94c5f539306b338300e.js"
 );
 
 self.addEventListener('message', (event) => {

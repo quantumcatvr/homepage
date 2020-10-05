@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/quantumcatvr.github.io/static/css/main.d583a459.chunk.css",
-    "main.js": "/quantumcatvr.github.io/static/js/main.82df6e3b.chunk.js",
-    "main.js.map": "/quantumcatvr.github.io/static/js/main.82df6e3b.chunk.js.map",
+    "main.css": "/quantumcatvr.github.io/static/css/main.787ff858.chunk.css",
+    "main.js": "/quantumcatvr.github.io/static/js/main.0f3f6eb2.chunk.js",
+    "main.js.map": "/quantumcatvr.github.io/static/js/main.0f3f6eb2.chunk.js.map",
     "runtime-main.js": "/quantumcatvr.github.io/static/js/runtime-main.87717969.js",
     "runtime-main.js.map": "/quantumcatvr.github.io/static/js/runtime-main.87717969.js.map",
     "static/js/2.80ad884d.chunk.js": "/quantumcatvr.github.io/static/js/2.80ad884d.chunk.js",
     "static/js/2.80ad884d.chunk.js.map": "/quantumcatvr.github.io/static/js/2.80ad884d.chunk.js.map",
     "index.html": "/quantumcatvr.github.io/index.html",
-    "precache-manifest.ccea539ad5111328754a7fb56b27a542.js": "/quantumcatvr.github.io/precache-manifest.ccea539ad5111328754a7fb56b27a542.js",
+    "precache-manifest.6cb867d6f836e94c5f539306b338300e.js": "/quantumcatvr.github.io/precache-manifest.6cb867d6f836e94c5f539306b338300e.js",
     "service-worker.js": "/quantumcatvr.github.io/service-worker.js",
-    "static/css/main.d583a459.chunk.css.map": "/quantumcatvr.github.io/static/css/main.d583a459.chunk.css.map",
+    "static/css/main.787ff858.chunk.css.map": "/quantumcatvr.github.io/static/css/main.787ff858.chunk.css.map",
     "static/js/2.80ad884d.chunk.js.LICENSE.txt": "/quantumcatvr.github.io/static/js/2.80ad884d.chunk.js.LICENSE.txt",
     "static/media/cat-logo.svg": "/quantumcatvr.github.io/static/media/cat-logo.1f5cf95f.svg",
     "static/media/character.jpg": "/quantumcatvr.github.io/static/media/character.8a7d08c1.jpg",
@@ -24,7 +24,7 @@
   "entrypoints": [
     "static/js/runtime-main.87717969.js",
     "static/js/2.80ad884d.chunk.js",
-    "static/css/main.d583a459.chunk.css",
-    "static/js/main.82df6e3b.chunk.js"
+    "static/css/main.787ff858.chunk.css",
+    "static/js/main.0f3f6eb2.chunk.js"
   ]
 }
